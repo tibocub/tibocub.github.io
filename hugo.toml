@@ -1,0 +1,4 @@
+baseURL = 'https://tibocub.github.io/'
+locale = 'en-us'
+title = 'Devlog'
+theme = 'rusty-typewriter'
